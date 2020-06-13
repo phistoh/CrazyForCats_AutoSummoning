@@ -1,0 +1,7 @@
+## Interface: 80100
+## Title: CrazyForCats_AutoSummoning
+## Version: 1.0
+## Notes: Test
+## Dependencies: CrazyForCats
+
+CrazyForCats_AutoSummoning.lua
