@@ -1,3 +1,8 @@
+# Note
+This addon's functionality is part of the ordinary [CrazyForCats](https://github.com/phistoh/CrazyForCats) addon.
+
+---
+
 # CrazyForCats_AutoSummoning
 WoW addon which enables automatic summoning of personal favorites when using CrazyFor Cats. This functionality is now part of CrazyForCats itself, thus this addon is now deprecated.
 
